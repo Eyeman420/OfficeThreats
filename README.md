@@ -9,7 +9,7 @@ This is source code for OfficeThreats Game.
 |:-----------------------------:|:--------------------------:|:--------------------------:|  
 | [Aiman Shahrel](https://github.com/Eyeman420)| 205774 | Project Manager |
 | Hifzhan A.Halim| 205570 | Organization manager |
-| Norman Samsuddin | 205770 | Github Technician |
+| [Norman Samsuddin](https://github.com/Bokayoko777) | 205770 | Github Technician |
 | [Faiz Zainuddin](https://github.com/Faxz36) | 205456 | Scheduling Configurations |
 | [Syahid Hasenan](https://github.com/SyahSyahid) | 208327 | Software Configuration Manager |
 
