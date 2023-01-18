@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ab67616d0000b27308e01274f9694675af908807.jpg-479668c44e37310c60fdf1e17570de53.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://PS Folder/Design/References/ab67616d0000b27308e01274f9694675af908807.jpg"
+dest_files=[ "res://.import/ab67616d0000b27308e01274f9694675af908807.jpg-479668c44e37310c60fdf1e17570de53.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
